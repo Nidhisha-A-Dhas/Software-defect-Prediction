@@ -1,0 +1,28 @@
+# Data Processing
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+
+# Machine Learning
+scikit-learn==1.5.1
+xgboost==2.1.1
+
+# Explainable AI
+shap==0.46.0
+
+# API Framework
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# Model Saving
+joblib==1.4.2
+
+# Jupyter Notebook
+jupyter==1.1.1
+notebook==7.2.2
+
+# Data Visualization
+matplotlib==3.9.2
+
+google-genai==1.28.0
+python-dotenv==1.1.1
